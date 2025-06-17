@@ -15,7 +15,5 @@ int main() {
         break; // Para evitar loop infinito, remova o break para ver o loop infinito
     }
     
-    
-
     return 0; 
 }

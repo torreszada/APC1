@@ -9,7 +9,6 @@ int main() {
             printf("%i eh multiplo de %i\n", numero, i);
         } else {
             printf("%i nao eh multiplo de %i\n", numero, i);
-        }
     }
 
     return 0;

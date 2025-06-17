@@ -13,7 +13,7 @@ int main() {
 
     while (opcao != 4) {
         system("clear"); // Limpa a tela (Linux/Mac) ou system("cls") para Windows
-        printf(RED);
+        printf(BLU);
         printf("+--------------------------------------+\n");
         printf("|            MENU PRINCIPAL            |\n");
         printf("+--------------------------------------+\n");
